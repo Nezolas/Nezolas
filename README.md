@@ -1,5 +1,9 @@
-### Hi there 👋
-
+## Hi Everyone 👋
+I am an Electrical and Electronics Engineer. I consider my profession as my hobby. I enjoy creating products from scratch. I have previously worked on autonomous UAVs and autonomous pick and place robot coding, and currently, I am working towards becoming a Back End Developer.
+- 🚀 I’m currently working on Back-End Development and a little bit of Embedded Systems.
+- 🧠 I’m currently learning JavaScript and Python. I'm open to all kinds of assistance.
+- 📫 You can reach me via the email address on my profile or through Linkedin.
+- ⚡ Fun fact: わたしわ にほんご おべんきょうします そして 日本に行きます
 <!--
 **Nezolas/Nezolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
