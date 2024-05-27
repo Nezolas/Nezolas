@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nezolas&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="nezolas" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=nezolas&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="nezolas" width="48%" /></p>
-
+<div align="left">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nezolas&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="nezolas" /></p>
+</div>
+<div align="right">
+  <p><img src="https://github-readme-stats.vercel.app/api?username=nezolas&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="nezolas" width="48%" /></p>
+</div>
 <div align="center">
-<img src="https://profile-counter.glitch.me/{nezolas}/count.svg" alt="nezolas :: Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{nezolas}/count.svg" alt="nezolas :: Visitor's Count" />
 </div>
