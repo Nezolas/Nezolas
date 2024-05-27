@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="498" height="280" src="![loading](https://github.com/Nezolas/Nezolas/assets/25018831/2d56b389-e7d0-41d4-a4a5-4cb136af1a03)">
+  <img width= auto height= auto src="![loading](https://github.com/Nezolas/Nezolas/assets/25018831/2d56b389-e7d0-41d4-a4a5-4cb136af1a03)">
 </p>
 
 
