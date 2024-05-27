@@ -1,9 +1,3 @@
-<p align="center">
-  <img width= auto height= auto src="![loading](https://github.com/Nezolas/Nezolas/assets/25018831/2d56b389-e7d0-41d4-a4a5-4cb136af1a03)">
-</p>
-
-
-![loading](https://github.com/Nezolas/Nezolas/assets/25018831/2d56b389-e7d0-41d4-a4a5-4cb136af1a03)
 ## Hi Everyone 👋
 I am an Electrical and Electronics Engineer. I consider my profession as my hobby. I enjoy creating products from scratch. I have previously worked on autonomous UAVs and autonomous pick and place robot coding, and currently, I am working towards becoming a Back End Developer.
 - 🚀 I’m currently working on Back-End Development and a bit of Embedded Systems.
