@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nezolas&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="nezolas" width="48%" /></p><br />
 
 
-<img align="center" src="https://profile-counter.glitch.me/{nezolas}/count.svg" alt="nezolas :: Visitor's Count" />
+<p>&nbsp;<img align="center" src="https://profile-counter.glitch.me/{nezolas}/count.svg" alt="nezolas :: Visitor's Count" /></p><br />
