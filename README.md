@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="[[https://picsum.photos/460/300](https://github.com/Nezolas/Nezolas/assets/25018831/89b53c25-fcf1-4597-9d3e-2cf3fafd95a3)](https://github.com/Nezolas/Nezolas/assets/25018831/89b53c25-fcf1-4597-9d3e-2cf3fafd95a3)">
+  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/Nezolas/Nezolas/assets/25018831/89b53c25-fcf1-4597-9d3e-2cf3fafd95a3)">
 </p>
-
 
 
 ## Hi Everyone 👋
