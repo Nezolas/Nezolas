@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nezolas&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="nezolas" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nezolas&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="nezolas" width="48%" /></p><br />
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nezolas&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="nezolas" width="48%" /></p><br />
 
 <div align="center">
 <img src="https://profile-counter.glitch.me/{nezolas}/count.svg" alt="nezolas :: Visitor's Count" />
