@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 <p style="width:50%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nezolas&theme=juicyfresh" alt="nezolas" /></a></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nezolas&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="nezolas" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nezolas&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="nezolas" width="48%" /></p><br />
+
+
+img src="https://profile-counter.glitch.me/{nezolas}/count.svg" alt="nezolas :: Visitor's Count" />
